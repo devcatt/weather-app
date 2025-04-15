@@ -62,11 +62,7 @@ export default function App() {
         )} />
       </div>
       <div className="text-white">Made by cat</div>
-      <Link className="text-gray-400" href={"https://github.com"}>View on GitHub</Link> {/* add a working repo link here once its made */}
+      <Link className="text-gray-400" href={"https://github.com/devcatt/weather-app"}>View on GitHub</Link> {/* add a working repo link here once its made */}
     </main>
   )
 }
-
-{/* todo (more practice): add more info with divs to the screen */}
-{/* todo: optimize the code */}
-{/* optional todo: add other language support */}
